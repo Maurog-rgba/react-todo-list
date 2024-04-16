@@ -2,7 +2,7 @@ import { useState } from "react";
 import TodoForm from "../../components/TodoForm";
 import TodoItem from "../../components/TodoItem";
 
-import { todoList } from "../../data/todos";
+import { todoList } from "../../../todo-list/src/data/todos";
 
 import "../../App.css";
 
